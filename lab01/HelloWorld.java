@@ -1,7 +1,7 @@
 public class void HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		System.out.println("This is your teammate its totally not just the same person on a copy of the repo");
 	}
 
 }
